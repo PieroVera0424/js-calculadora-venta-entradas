@@ -1,0 +1,21 @@
+
+body {
+    min-height: 100vh;
+    background-color: #ffffff;
+    display: grid;
+    place-items: center;
+}
+
+.container{
+
+        background-color: #bd4b4b;
+        align-items: center;
+        color: white;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        max-width: 100%;
+        width: 400px;
+        text-align: center;
+
+    
+}
